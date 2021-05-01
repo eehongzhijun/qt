@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/SerialTool">
+        <file>images/clear.ico</file>
+        <file>images/close.ico</file>
+        <file>images/config.ico</file>
+        <file>images/connect.ico</file>
+        <file>images/connect_red.ico</file>
+        <file>images/connectyellow.ico</file>
+        <file>images/exit.ico</file>
+        <file>images/logo.ico</file>
+        <file>images/open.ico</file>
+        <file>images/pause.ico</file>
+        <file>images/pin_down.ico</file>
+        <file>images/pin_up.ico</file>
+        <file>images/port config.ico</file>
+        <file>images/save.ico</file>
+        <file>images/start.ico</file>
+    </qresource>
+</RCC>
